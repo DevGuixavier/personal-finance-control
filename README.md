@@ -60,7 +60,8 @@ Este projeto é um aplicativo simples de controle financeiro pessoal desenvolvid
    ```bash
    streamlit run app.py
    ```
-6. Use a interface para adicionar despesas e visualizar o dashboard.
+
+6. Utilize a interface interativa para adicionar despesas, aplicar filtros e visualizar as análises em tempo real.
 
 6. Utilize a interface interativa para adicionar despesas, aplicar filtros e visualizar as análises em tempo real.
 
