@@ -111,3 +111,5 @@ cython_debug/
 # Ignore data files and backups
 gastos.csv
 backups/
+
+screenshot/
