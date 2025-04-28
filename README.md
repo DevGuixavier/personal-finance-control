@@ -20,7 +20,6 @@ Este projeto é um aplicativo simples de controle financeiro pessoal desenvolvid
 - Pandas
 - Plotly Express
 
-## Como usar
 ## Como Usar
 
 1. Clone o repositório:
@@ -103,14 +102,13 @@ Visualização filtrada dos gastos para as pessoas fictícias Pessoa X e Pessoa 
 - O projeto é modular e pode ser facilmente expandido com novas funcionalidades.
 - Certifique-se de criar backups regularmente para evitar perda de dados.
 
-## Contato
+## Entre em Contato
 
 Para dúvidas ou sugestões, entre em contato.
 Para dúvidas ou sugestões, entre em contato:
 - **GitHub**: [DevGuixavier](https://github.com/DevGuixavier)
 - **LinkedIn**: [Guilherme Anjos Xavier](https://www.linkedin.com/in/guilherme-anjos-xavier/)
 ---
-Projeto criado para controle financeiro pessoal simples e funcional.
 
 Este projeto foi criado para oferecer uma solução prática e eficiente de controle financeiro pessoal, com foco em simplicidade e visualização intuitiva.
 
